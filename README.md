@@ -83,13 +83,13 @@ mlp_model = load_model("src/mlp_model.keras")
 ![MLP training history](images/MLP_training_history.png)
 
 ### MLP confusion matrix
-![MLP confusion matrix](images/MLP_confustion_matrix.png)
+![MLP confusion matrix](images/MLP_confusion_matrix.png)
 
 ### CNN training history
 ![CNN training history](images/CNN_training_history.png)
 
 ### CNN confusion matrix
-![CNN confusion matrix](images/CNN_confustion_matrix.png)
+![CNN confusion matrix](images/CNN_confusion_matrix.png)
 ---
 
 ## **Credits / Acknowledgements**
